@@ -1,10 +1,11 @@
-- User Story
+### ** User Story:**
 Bethany is a regular woman and she's searching for a magic way to grow her business audience so she thought of opening a website
-- Project Structure
+ ### ** Project Structure :**
+ 
   - Home page that display her latest pie creations.
   - About and Contact page.
   - A page for the pie specification ( Title,Description and the price) and a way to order.
-  -   Possiblity of ordering one to multiple pies.
+  - Cheesecakes page for pie Specification (Image , Pie name , Description ,Price , Details) .
   - A checkout section to evaluat the final price and confirme ordering.
   - A dynamic shoping basket.
   - Easy-to-use interface.
