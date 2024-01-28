@@ -1,6 +1,6 @@
 - Bethany's Pie Shop  
 - By it's nature the project is a Web shop.
-    - Website includes  pages:
+    - Website includes  pages.
            - Home page
            - Cheesecakes page
            - FruitPiee Page
