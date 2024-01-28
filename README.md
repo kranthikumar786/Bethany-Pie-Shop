@@ -6,4 +6,4 @@
       - Fruit Pie Page
       - Seasonal Pies Page
       - Promotions
-  - For a better development experience, tools like Live Server (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) are used.
+  - For a better development experience, tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) are used.
