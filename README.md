@@ -1,7 +1,6 @@
-### ** User Story:**
+### **User Story:**
 Bethany is a regular woman and she's searching for a magic way to grow her business audience so she thought of opening a website
- ### ** Project Structure :**
- 
+### **Project Structure:** 
   - Home page that display her latest pie creations.
   - About and Contact page.
   - A page for the pie specification ( Title,Description and the price) and a way to order.
