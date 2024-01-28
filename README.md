@@ -7,3 +7,5 @@
       - Seasonal Pies Page
       - Promotions
   - For a better development experience, tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) are used.
+
+![Output](https://github.com/kranthikumar786/FrontEndProjects/blob/main/Project1/Bethanie'spieshop/images/BethaniShop.png)
