@@ -1,22 +1,17 @@
 ### **User Story:**
 Bethany is a regular woman and she's searching for a magic way to grow her business audience so she thought of opening a website
 ### **Project Structure:** 
-  - Home page that display her latest pie creations.
-  - About and Contact page.
-  - A page for the pie specification ( Title,Description and the price) and a way to order.
-  - Cheesecakes page for pie Specification (Image , Pie name , Description ,Price , Details) .
-  - A checkout section to evaluat the final price and confirme ordering.
-  - A dynamic shoping basket.
-  - Easy-to-use interface.
-
-- Bethany's Pie Shop
-  - By its nature, the project is a web shop.
-    - Website includes pages:
-      - Home page
+  - Home page that display her latest Types of pie creations.
       - Cheesecakes page
       - Fruit Pie Page
       - Seasonal Pies Page
       - Promotions
+  - A page for the pie specification ( Title,Description and the price) and a way to order.
+  - Cheesecakes page for pie Specification (Image , Pie name , Description ,Price , Details) .
+  - User-friendly interface for effortless navigation.
+  - Expanded details on pie-making, including ingredients and more.
+  - Introduced a "Save As Favourate!" feature that allows users to add item to their favorites, with selections stored in the local storage for a personalized and convenient experience
+
 ### **Technologies Used:**
   - HTML5
   - CSS3
