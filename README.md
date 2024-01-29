@@ -1,11 +1,11 @@
 ### **User Story:**
 Bethany is a regular woman and she's searching for a magic way to grow her business audience so she thought of opening a website
 ### **Project Structure:** 
-  - Home page that display her latest Types of pie creations.
+  - Homepage showcasing her latest pie creations.
       - Cheesecakes page
       - Fruit Pie Page
       - Seasonal Pies Page
-      - Promotions
+      - And  Promotions
   - A page for the pie specification ( Title,Description and the price) and a way to order.
   - Cheesecakes page for pie Specification (Image , Pie name , Description ,Price , Details) .
   - User-friendly interface for effortless navigation.
